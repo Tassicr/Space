@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt:br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Available Spaceships</title>
+</head>
+
+<body>
+    <a href="SpaceX.html"><img src="img/spacelogo04.png" alt="Logo" width="300"></a>
+    <a href="spaceships.html">The Spaceships</a> | <a href="HireUs.html">Hire Us</a>
+    <hr>
+
+    <font face="Arial">
+        <h2><strong>Available Spaceships</strong></h2>
+    </font>
+    <br>
+    <font face="Arial">
+        <h3><strong>Falcon 9</strong></h3>
+    </font>
+    <img src="img/falcon 9.jfif" alt="falcon9" width="250">
+    <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id possimus suscipit fugiat doloremque quos nobis iste<br>
+        beatae facilis asperiores ratione dolores, sit iure similique, qui dolorem aspernatur labore error? Aut, culpa<br>
+        consequatur reiciendis odit iste, amet natus exercitationem et dolor deleniti aperiam fugit illum beatae<br>
+        praesentium rem nostrum recusandae obcaecati id impedit voluptate tempora dolorem ad autem! Asperiores quis<br>
+        numquam suscipit quod voluptatum vel harum voluptatibus tenetur, tempora dignissimos eius quasi iure, quisquam<br>
+        consequatur dolores ratione cumque officia dolorum. Quibusdam suscipit fugit obcaecati. Nulla ea, molestiae fuga<br>
+        reprehenderit optio facilis excepturi officiis. Reprehenderit doloremque fugiat dolorem? Omnis eum rerum
+        laborum.
+    </p>
+    <br>
+    <font face="Arial">
+        <h3><strong>Falcon Heavy</strong></h3>
+    </font>
+    <img src="img/Falcon Heavy.jfif" alt="falconheavy" width="250">
+    <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id possimus suscipit fugiat doloremque quos nobis iste<br>
+        beatae facilis asperiores ratione dolores, sit iure similique, qui dolorem aspernatur labore error? Aut, culpa<br>
+        consequatur reiciendis odit iste, amet natus exercitationem et dolor deleniti aperiam fugit illum beatae<br>
+        praesentium rem nostrum recusandae obcaecati id impedit voluptate tempora dolorem ad autem! Asperiores quis<br>
+        numquam suscipit quod voluptatum vel harum voluptatibus tenetur, tempora dignissimos eius quasi iure, quisquam<br>
+        consequatur dolores ratione cumque officia dolorum. Quibusdam suscipit fugit obcaecati. Nulla ea, molestiae fuga<br>
+        reprehenderit optio facilis excepturi officiis. Reprehenderit doloremque fugiat dolorem? Omnis eum rerum
+        laborum.
+    </p>
+</body>
+
+</html>
